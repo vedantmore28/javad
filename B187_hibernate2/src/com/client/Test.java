@@ -22,7 +22,7 @@ public class Test {
 				session.save(s);
 				
 				session.beginTransaction().commit();
-				System.out.println("add pushh to pull ")
+				System.out.println("add pushh to pull ");
 				
 		
 		
